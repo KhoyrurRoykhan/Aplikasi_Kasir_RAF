@@ -1,0 +1,29 @@
+<!-- item_layout.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+
+    <TextView
+        android:id="@+id/namaItemTextView"
+        android:layout_width="166dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:text="Nama Item" />
+
+    <TextView
+        android:id="@+id/hargaItemTextView"
+        android:layout_width="93dp"
+        android:layout_height="wrap_content"
+        android:text="harga" />
+
+    <TextView
+        android:id="@+id/jumlahItemTextView"
+        android:layout_width="97dp"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:text="jumlah" />
+
+</LinearLayout>

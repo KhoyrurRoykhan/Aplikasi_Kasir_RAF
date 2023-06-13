@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635722348760",
+    "project_id": "rumahmakan-raf",
+    "storage_bucket": "rumahmakan-raf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635722348760:android:319ed27a6e0b9163793fad",
+        "android_client_info": {
+          "package_name": "com.example.RumahMakan_RAF"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZBiVhu3GvqURU1BxR25ZjI_pDsoHriEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
